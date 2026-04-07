@@ -358,6 +358,7 @@ java/security/MessageDigest/ArgumentSanity.java https://github.com/eclipse-openj
 java/security/MessageDigest/ByteBuffers.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/MessageDigest/TestCloneable.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/MessageDigest/TestDigestIOStream.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
+java/security/MessageDigest/TestDisabledAlgorithms.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/MessageDigest/TestSameLength.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/MessageDigest/TestSameValue.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/MessageDigest/UnsupportedProvider.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
@@ -414,6 +415,7 @@ java/security/Signature/SignatureGetInstance.java https://github.com/eclipse-ope
 java/security/Signature/SignatureLength.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/Signature/SignWithOutputBuffer.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/Signature/TestCloneable.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
+java/security/Signature/TestDisabledAlgorithms.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/Signature/TestInitSignWithMyOwnRandom.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/Signature/VerifyRangeCheckOverflow.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 java/security/SignedJar/spi-calendar-provider/TestSPISigned.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
@@ -448,6 +450,7 @@ javax/crypto/Cipher/InOutBuffers.java https://github.com/eclipse-openj9/openj9/i
 javax/crypto/Cipher/InvalidKeyExceptionTest.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 javax/crypto/Cipher/TestCipherMode.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 javax/crypto/Cipher/TestDisabledAlgorithms.java https://github.com/eclipse-openj9/openj9/issues/23424 generic-all
+javax/crypto/Cipher/TestDisabledWithOids.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 javax/crypto/Cipher/TestEmptyModePadding.java https://github.com/eclipse-openj9/openj9/issues/23424 generic-all
 javax/crypto/Cipher/TestGetInstance.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 javax/crypto/Cipher/Turkish.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
